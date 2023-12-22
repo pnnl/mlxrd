@@ -20,7 +20,7 @@ To run the code, Python3 and PyTorch are needed.
 ## To prepare data:
 ```text
 python DataPrepare.py
-```text
+```
 
 ## Train
 ```text
