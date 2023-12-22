@@ -6,14 +6,14 @@ To run the code, Python3 and PyTorch are needed.
 
 ## Folders:
 ### dataPrepare:
-Data File is the raw data, including theoretical and experiment dataset. Theoretical data is used for training, and experiment data is used for testing. 
-DataPrepare.py is used to prepare dataset for training and testing from raw data.
+- Data is the raw data, including theoretical and experiment dataset. Theoretical data is used for training, and experiment data is used for testing. 
+- DataPrepare.py is used to prepare dataset for training and testing from raw data.
 
 ### train_test:
-DataLoader.py: load and preprocess the data.
-model_XRD.py: define neural network model.
-train_XRD: train model with training dataset and test.
-test_XRD: test data in trained model.
+- DataLoader.py: load and preprocess the data.
+- model_XRD.py: define neural network model.
+- train_XRD: train model with training dataset and test.
+- test_XRD: test data in trained model.
 
 # Run
 
